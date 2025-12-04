@@ -12,8 +12,8 @@ I’m a developer exploring the intersection of **web3**, **automation**, and **
 ## 🔭 Highlighted Projects
 
 ### 🪂 Airdrop Simulators & Web3 Tools
-- **zksyncairdropsim** – zkSync-focused airdrop simulation/analysis tool.  
-- **django-airdrop-simulator** – Web interface for running and exploring airdrop simulations.  
+- **zksyncairdropsim** – zkSync-focused airdrop simulation/analysis tool.
+- **solstice** – Solstice - focused airdrop calculator/strategy simulation/analysis tool.  
 - **deepanalyzer** – Deeper analytics / data tooling around onchain-style or simulation data.  
 - **siw3 / siwETHOS / simplewallet** – Experiments around wallets, sign-in flows, and web3 UX.
 
